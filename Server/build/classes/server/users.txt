@@ -1,0 +1,4 @@
+admin:admin:admin
+kosana:Miki2007+:takmicar
+Miki:Kosana2007+:takmicar
+Branka:Zoran2007+:takmicar
